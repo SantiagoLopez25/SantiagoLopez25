@@ -1,8 +1,14 @@
 # Hello There 
 
-![image](https://github.com/user-attachments/assets/1fd0857c-f294-411f-bd40-1e40b68948ec)
 
-<img src="[https://mi-url.com/mi-imagen.png](https://www.freepik.es/imagen-ia-premium/nutria-computadora-audaz-fondo-azul-electrico-retrato-animal-alegre-toque-moderno_362447804.htm)" style="width: 300px;">
+
+<img src="https://github.com/user-attachments/assets/8b6db1bb-f2b9-46bd-8072-5c18ae2336a3" width="300">
+
+
+
+
+
+
 <!--
 **SantiagoLopez25/SantiagoLopez25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
